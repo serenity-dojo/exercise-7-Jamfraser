@@ -1,5 +1,7 @@
 package com.serenitydojo;
 
+import com.serenitydojo.model.FoodType;
+
 public class Dog extends Pet {
     private String favoriteToy;
     private boolean isFed = false;

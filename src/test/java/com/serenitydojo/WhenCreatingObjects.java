@@ -47,6 +47,6 @@ public class WhenCreatingObjects {
 
         assertThat(fido.play(), equalTo("plays with bone"));
         assertThat(spot.play(), equalTo("plays with string"));
-        assertThat(hazel.play(), equalTo("runs in wheel"));
+        assertThat(hazel.play(), equalTo("runs on wheel"));
     }
 }
